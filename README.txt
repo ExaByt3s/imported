@@ -8,6 +8,7 @@ Eve Development Network Killboard v4.0.5
 - PHP 5.2+
 - Mysql 5+
 - GD 2 or higher
+- 500 рублей
 
 
 // SETUP
